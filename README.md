@@ -55,7 +55,7 @@ Backend server made with Bun and Express that allows the user to scrape Amazon p
 
 - Search item
 - Display item list
-- Error Handeling
+- Error Handling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +90,7 @@ cd my-folder
 git clone https://github.com/sebalp100/am-scraper-backend
 
 You can find the front-end repo here:
-https://github.com/sebalp100/rent-a-car-frontend
+https://github.com/sebalp100/am-scraper-frontend
 
 ### Usage
 
@@ -101,6 +101,8 @@ To run the project, execute the following commands in your Ruby terminal:
 `bun install` to install all dependencies.
 
 `bun run index.ts` to start the backend server.
+
+You should have the backend running now. Open the frontend to use the search bar and see the products.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
